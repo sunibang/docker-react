@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+**/.DS_Store
+.history
+.idea
+**/*.code-workspace
+*.iml
+.project
+.nyc_output
